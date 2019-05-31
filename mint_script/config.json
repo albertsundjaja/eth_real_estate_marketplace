@@ -1,0 +1,12 @@
+{
+	"localhost": {
+		"url": "http://localhost:8545",
+		"verifierAddress": "0x1224A0091a3e6be4E375ec3E08A565Af66C16212",
+		"appAddress": "0x0467e44ea79F4125d417C67386EC9d471c23a21E"
+	},
+	"rinkeby": {
+		"url": "https://rinkeby.infura.io/v3/b25b243244e147399ef43d9dcda9cebc",
+		"verifierAddress": "0x1224A0091a3e6be4E375ec3E08A565Af66C16212",
+		"appAddress": "0x0467e44ea79F4125d417C67386EC9d471c23a21E"
+	}
+}
